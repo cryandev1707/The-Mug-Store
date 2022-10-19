@@ -5,7 +5,7 @@ An e-commerce website for mugs. (a work in progress)
 Note: Only the wireframe for mobile devices has been created so far.
 
 ==========================
-#### Home page
+### Home page
 ==========================
 
 ![Home](https://user-images.githubusercontent.com/112350764/196778466-5d87e6d7-4560-484e-83ca-eed5b064e0fe.png)
