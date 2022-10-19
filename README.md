@@ -2,8 +2,8 @@
 An e-commerce website for mugs. (a work in progress)
 
 ## Table of contents
-1. Wireframes
-2. Prototype
+1. [Wireframes](#1.-wireframes)
+2. [Prototype](#2.-prototype)
 
 ## 1. Wireframes
 Note: Only the wireframe for mobile devices has been created so far.
