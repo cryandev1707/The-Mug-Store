@@ -1,17 +1,14 @@
 # The-Mug-Store
 An e-commerce website for mugs. (a work in progress)
 
-# Wireframes
+## Wireframes
 Note: Only the wireframe for mobile devices has been created so far.
 
-==========================
 ### Home page
-==========================
 
-![Home](https://user-images.githubusercontent.com/112350764/196778466-5d87e6d7-4560-484e-83ca-eed5b064e0fe.png)
+![Home](https://user-images.githubusercontent.com/112350764/196782893-d3c3c653-fa17-4e8b-a1e7-1b35ee35a1e4.png)
 
-==========================
-#### Failed search page
+### Failed search page
 ==========================
 
 ![Failed search](https://user-images.githubusercontent.com/112350764/196779097-9a00346b-3360-4ba1-96fb-d407a318469f.png)
