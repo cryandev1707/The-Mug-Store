@@ -4,7 +4,7 @@ An e-commerce website for mugs. (a work in progress)
 ## Table of contents
 1. Wireframes
 
-## Wireframes
+## 1. Wireframes
 Note: Only the wireframe for mobile devices has been created so far.
 
 ### Home page
