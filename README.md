@@ -3,6 +3,7 @@ An e-commerce website for mugs. (a work in progress)
 
 ## Table of contents
 1. Wireframes
+2. Prototype
 
 ## 1. Wireframes
 Note: Only the wireframe for mobile devices has been created so far.
@@ -83,3 +84,11 @@ Note: Only the wireframe for mobile devices has been created so far.
 ### Shipping Info page
 
 ![Shipping Info](https://user-images.githubusercontent.com/112350764/196783918-d961a7fd-85c8-4988-b166-d06ce6d0e2a6.png)
+
+## 2. Prototype
+https://www.figma.com/proto/dXdeonfouzAg3uhIKRaFpc/Mug-Store?node-id=353%3A3783&scaling=scale-down&page-id=315%3A2449&starting-point-node-id=353%3A3783
+
+Only the following two products have an interaction:
+
+![Pumpkin-shaped ceramic mug](https://user-images.githubusercontent.com/112350764/196815139-bb6abd6e-35e3-4777-954e-0189290db7f1.png)
+![Skeleton face ceramic mug](https://user-images.githubusercontent.com/112350764/196815152-05ff9b2a-5df7-4b69-89e6-d12bf9089e52.png)
