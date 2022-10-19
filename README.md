@@ -2,10 +2,10 @@
 An e-commerce website for mugs. (a work in progress)
 
 ## Table of contents
-1. [Wireframes](#1.-wireframes)
-2. [Prototype](#2.-prototype)
+1. [Wireframes](#wireframe)
+2. [Prototype](#prototype)
 
-## 1. Wireframes
+<a name="wireframe">## 1. Wireframe</a>
 Note: Only the wireframe for mobile devices has been created so far.
 
 ### Home page
@@ -85,7 +85,7 @@ Note: Only the wireframe for mobile devices has been created so far.
 
 ![Shipping Info](https://user-images.githubusercontent.com/112350764/196783918-d961a7fd-85c8-4988-b166-d06ce6d0e2a6.png)
 
-## 2. Prototype
+<a name="prototype">## 2. Prototype</a>
 https://www.figma.com/proto/dXdeonfouzAg3uhIKRaFpc/Mug-Store?node-id=353%3A3783&scaling=scale-down&page-id=315%3A2449&starting-point-node-id=353%3A3783
 
 Only the following two products have an interaction:
