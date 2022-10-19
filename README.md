@@ -89,7 +89,7 @@ Note: Only the wireframe for mobile devices has been created so far.
 <a name="prototype"></a>
 ## 2. Prototype
 
-https://www.figma.com/proto/dXdeonfouzAg3uhIKRaFpc/Mug-Store?node-id=353%3A3783&scaling=scale-down&page-id=315%3A2449&starting-point-node-id=353%3A3783
+[Prototype](https://www.figma.com/proto/dXdeonfouzAg3uhIKRaFpc/Mug-Store?node-id=353%3A3783&scaling=scale-down&page-id=315%3A2449&starting-point-node-id=353%3A3783)
 
 Only the following two products have an interaction:
 
