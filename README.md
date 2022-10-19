@@ -4,107 +4,79 @@ An e-commerce website for mugs. (a work in progress)
 ## Wireframes
 Note: Only the wireframe for mobile devices has been created so far.
 
-### <Home page>
+### Home page
 
 ![Home](https://user-images.githubusercontent.com/112350764/196782893-d3c3c653-fa17-4e8b-a1e7-1b35ee35a1e4.png)
 
 ### Failed search page
-==========================
 
-![Failed search](https://user-images.githubusercontent.com/112350764/196779097-9a00346b-3360-4ba1-96fb-d407a318469f.png)
+![Failed search](https://user-images.githubusercontent.com/112350764/196783121-c7220da1-9d21-4a90-8778-7008fa5fd365.png)
 
-==========================
-#### Results page
-==========================
+### Results page
 
-![Results](https://user-images.githubusercontent.com/112350764/196778672-55ae780e-59dc-45ec-aa6f-6392f6ffd0c7.png)
+![Results](https://user-images.githubusercontent.com/112350764/196783174-441af776-0c4c-45d0-922b-28ea2209176f.png)
 
-==========================
-#### Product page
-==========================
+### Product page
 
-![Product detail](https://user-images.githubusercontent.com/112350764/196778711-453f7697-4a0f-4f3e-bfb5-7943328d9b16.png)
+![Product detail](https://user-images.githubusercontent.com/112350764/196783223-75a7da5e-fb1d-467c-9f1d-bf097388fedb.png)
 
-==========================
-#### Reviews page
-==========================
+### Reviews page
 
-![Reviews](https://user-images.githubusercontent.com/112350764/196778733-a24a5dbe-66ed-4280-abcc-7ee3386e5c44.png)
+![Reviews](https://user-images.githubusercontent.com/112350764/196783251-8bda51de-a3f7-431e-879c-a5cd5bbb5b32.png)
 
-==========================
-#### Added to Cart modal
-==========================
+### Added to Cart modal
 
-![Added to Cart](https://user-images.githubusercontent.com/112350764/196778810-b7a802e5-2edb-406e-90fa-e1ad19b522fe.png)
+![Added to Cart](https://user-images.githubusercontent.com/112350764/196783294-313b9f61-cd6c-483c-afb0-0e5a6f3ea6c9.png)
 
-==========================
-#### Cart page
-==========================
+### Cart page
 
-![Cart](https://user-images.githubusercontent.com/112350764/196778820-c962c22f-7e4a-49f7-aaf8-55ad6aed0a18.png)
+![Cart](https://user-images.githubusercontent.com/112350764/196783370-2b710455-4df8-461b-ab9d-d6b217ef50b7.png)
 
-==========================
-#### Checkout login page
-==========================
+### Checkout login page
 
-![Checkout login](https://user-images.githubusercontent.com/112350764/196778871-621f1ac0-6536-47b7-9b67-f4891125ce41.png)
+![Checkout login](https://user-images.githubusercontent.com/112350764/196783403-649a051e-8aa6-46bf-b4b1-476e4cb83abb.png)
 
-==========================
-#### Checkout page
-==========================
+### Checkout page
+#### Expanded
 
-![Checkout - expanded](https://user-images.githubusercontent.com/112350764/196778949-52656de2-5ae9-48ae-846d-31043e321800.png)
+![Checkout - expanded](https://user-images.githubusercontent.com/112350764/196783443-690aca7c-ed0e-42ba-b583-08568c01de68.png)
 
-![Checkout - collapsed](https://user-images.githubusercontent.com/112350764/196778965-34bcb583-6343-4752-b5ea-beda80e020a2.png)
+#### Collapsed
 
-==========================
-#### Order placed page
-==========================
+![Checkout - collapsed](https://user-images.githubusercontent.com/112350764/196783465-876e1c70-98f2-4460-afac-5b29e6c8583c.png)
 
-![Order placed](https://user-images.githubusercontent.com/112350764/196778994-ba6c8fd1-9455-41a0-8fc3-6ecd0d45456f.png)
+### Order placed page
 
-==========================
-#### Login page
-==========================
+![Order placed](https://user-images.githubusercontent.com/112350764/196783560-e221020d-bb25-43c8-a8d0-69898047758d.png)
 
-![Login](https://user-images.githubusercontent.com/112350764/196779159-44a3f0ec-7380-4ebf-826c-1c883db09c3a.png)
+### Login page
 
-==========================
-#### Forgot password page
-==========================
+![Login](https://user-images.githubusercontent.com/112350764/196783589-4d49cd43-f0e2-42f2-8b25-170921f2c2b7.png)
 
-![Forgot password](https://user-images.githubusercontent.com/112350764/196779350-7c52615d-5afc-42c4-abc8-451a399c40f0.png)
+### Forgot password page
 
-==========================
-#### Register page
-==========================
+![Forgot password](https://user-images.githubusercontent.com/112350764/196783627-712622cf-5184-4335-88e5-1e61ee155369.png)
 
-![Register - account details](https://user-images.githubusercontent.com/112350764/196779181-d2e70150-5b93-4a70-b04f-ab8824728017.png)
+### Register pages
 
-![Register - shipping details](https://user-images.githubusercontent.com/112350764/196779310-b5da4ec3-9394-4aa0-88f8-7371b7899779.png)
+![Register - account details](https://user-images.githubusercontent.com/112350764/196783750-b3bf18d8-ec47-4dfe-ad6e-3e7c7809048d.png)
 
-![Register - payment details](https://user-images.githubusercontent.com/112350764/196779319-21fb50c5-369f-48bd-ad24-ee19ce0fbf5f.png)
+![Register - shipping details](https://user-images.githubusercontent.com/112350764/196783766-80c628c6-d5e3-4c2a-ac42-3866cec87842.png)
 
-==========================
-#### Account page
-==========================
+![Register - payment details](https://user-images.githubusercontent.com/112350764/196783783-cebc2252-8f35-4648-a61b-ebe64068ebec.png)
 
-![My Account](https://user-images.githubusercontent.com/112350764/196779330-f874434c-1b86-4b2d-a5a4-1426cc334ab1.png)
+### Account page
 
-==========================
-#### FAQ page
-==========================
+![My Account](https://user-images.githubusercontent.com/112350764/196783824-a22c7e54-6807-411f-841e-cbb30d773a24.png)
 
-![FAQ](https://user-images.githubusercontent.com/112350764/196779392-45c0b538-b8c8-4f52-b684-53dabcfbe66c.png)
+### FAQ page
 
-==========================
-#### Return policy page
-==========================
+![FAQ](https://user-images.githubusercontent.com/112350764/196783865-9772074c-4e6e-4ff0-8f75-9050dae7ced0.png)
 
-![Return Policy](https://user-images.githubusercontent.com/112350764/196779407-ccf1e4fc-cbe8-4a83-908d-379646469118.png)
+### Return policy page
 
-==========================
-#### Shipping Info page
-==========================
+![Return Policy](https://user-images.githubusercontent.com/112350764/196783888-3b5ee26c-a2e1-474a-a696-e17f46c29534.png)
 
-![Shipping Info](https://user-images.githubusercontent.com/112350764/196779427-d35bb707-1999-4f33-a7db-bec1200638c6.png)
+### Shipping Info page
+
+![Shipping Info](https://user-images.githubusercontent.com/112350764/196783918-d961a7fd-85c8-4988-b166-d06ce6d0e2a6.png)
